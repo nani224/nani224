@@ -1,159 +1,156 @@
 <div align="center">
 
-# Hi there, I'm P. Sravan Kumar (nani224) 👋
-### Full-Stack & Systems Engineer | AI/NLP & Blockchain Innovator | SIH 2026 Finalist
+# P. Sravan Kumar
+### **Software Development Engineer (SDE) | Backend & Distributed Systems | Applied AI & Low-Level C/C++**
+**Hyderabad, India · [sravanp224@gmail.com](mailto:sravanp224@gmail.com) · [github.com/nani224](https://github.com/nani224) · [Live Portfolio](https://nani224.github.io/sravanp/)**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Information+Technology+%40+Vasavi+College+of+Engineering;Architect+of+EviGraph+%26+H2S+Dosimeter+(SIH+2026);Passionate+about+Low-Level+Systems%2C+AI%2C+and+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Information+Technology+%40+Vasavi+College+of+Engineering;Smart+India+Hackathon+2026+Finalist+(EviGraph+%26+MRPL+H2S);Backend+APIs+%7C+Distributed+Systems+%7C+Low-Level+Networking;Available+for+SDE+%2F+Backend+Engineering+Roles)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:sravanp224@gmail.com"><img src="https://img.shields.io/badge/Email-sravanp224%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nani224"><img src="https://img.shields.io/badge/GitHub-nani224-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://evigraph.onrender.com"><img src="https://img.shields.io/badge/Live_App-EviGraph-00C853?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="mailto:sravanp224@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Direct_Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://evigraph.onrender.com">
+    <img src="https://img.shields.io/badge/Production_App-EviGraph_Live-00C853?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+  <a href="https://github.com/nani224?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Verified_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 </div>
 
-## 📌 About Me
+## 👨‍💻 Executive Summary
 
-- 🎓 **Undergraduate** in Information Technology at **Vasavi College of Engineering** (Affiliated to Osmania University), Class of 2026.
-- 💡 **Smart India Hackathon 2026**:
-  - Creator of **[EviGraph](https://github.com/nani224/EviGraph)**: An AI-driven criminal network analysis and cryptographic evidence provenance platform utilizing Hyperledger Fabric blockchain.
-  - Core contributor to **H₂S Colorimetric Dosimeter** (SIH26118 for MRPL): Industrial safety computer vision system estimating toxic gas exposure with Kubelka-Munk colorimetry.
-- ⚙️ **Engineering Focus**: Multi-threaded socket networking, graph data structures (Dijkstra, $k$-detour algorithms), distributed architectures, and real-time NLP escalation pipelines.
-- 🎯 **Looking for**: Opportunities to build high-concurrency backend microservices, resilient distributed infrastructure, and applied AI systems.
+I am a Software Development Engineer with a strong foundation in **core computer science, high-concurrency systems, and full-stack architectures**. My work spans from low-level C network socket programming and $\mathcal{O}((V+E)\log V)$ graph algorithm implementations to production hackathon platforms utilizing **Hyperledger Fabric blockchain, FastAPI microservices, and React 18**.
 
----
-
-## 🛠️ Technical Stack & Tooling
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend, Distributed & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+* **Academic Background**: B.E. in Information Technology, **Vasavi College of Engineering (Autonomous, NAAC A++)**, Hyderabad (Affiliated to Osmania University).
+* **Smart India Hackathon (SIH 2026)**:
+  * **EviGraph**: Architected an AI-powered criminal network relationship engine and cryptographic evidence chain-of-custody platform on Hyperledger Fabric.
+  * **H₂S Dosimeter**: Industrial wearable safety system monitoring toxic gas exposure using optical Kubelka–Munk colorimetry for problem sponsor **MRPL**.
+* **Engineering Values**: Clean code, zero-memory-leak lifecycles, rigorous automated testing, and deterministic performance.
 
 ---
 
-## 🏆 Featured Projects & Engineering Highlights
+## 🛠️ Technical Competencies
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/nani224/EviGraph">EviGraph</a></h3>
-      <i>AI-Powered Criminal Network Analysis & Cryptographic Evidence Provenance</i>
-      <br/><br/>
-      <ul>
-        <li><b>Smart India Hackathon 2026</b> project deployed live on Render.</li>
-        <li>Immutable chain-of-custody tracking with <b>Hyperledger Fabric</b> blockchain.</li>
-        <li>Interactive graph visualization mapping suspect relationships, co-occurrences, and crime rings.</li>
-        <li><b>Stack:</b> React, TypeScript, FastAPI, Hyperledger, Docker.</li>
-      </ul>
-      <p align="right"><a href="https://evigraph.onrender.com"><b>🌐 Live Demo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/nani224/TCS">NETRA-X</a></h3>
-      <i>Real-Time AI Dynamic Digital Content & Threat Escalation Engine</i>
-      <br/><br/>
-      <ul>
-        <li>WebSocket-based NLP stream tracking conversational escalation trends across turns.</li>
-        <li>Combines spaCy entity recognition, TF-IDF lexical analysis, and zero-latency local fallback.</li>
-        <li>Clamped risk scores ($0–100$) and automated severity categorization.</li>
-        <li><b>Stack:</b> Python, FastAPI, WebSockets, scikit-learn, spaCy.</li>
-      </ul>
+    <td width="22%"><b>Languages</b></td>
+    <td>
+      <code>C</code> · <code>C++</code> · <code>Java 8/17</code> · <code>Python 3</code> · <code>TypeScript</code> · <code>JavaScript (ES6+)</code> · <code>SQL</code> · <code>Dart</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/nani224/pathfinder">PathFinder</a></h3>
-      <i>High-Performance Dijkstra Shortest Path & K-Alternative Routes</i>
-      <br/><br/>
-      <ul>
-        <li>Graph algorithm engine implemented in pure C with dynamic adjacency lists.</li>
-        <li>$\mathcal{O}((V + E) \log V)$ shortest paths using a binary min-heap priority queue.</li>
-        <li>$K$-alternative route detours with dynamic edge blocking.</li>
-        <li>Open-addressing djb2 string hash table for instant node resolution.</li>
-        <li><b>Stack:</b> C, Min-Heap, Graph Theory, GCC.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/nani224/smartlearn">SmartLearn</a></h3>
-      <i>Multi-Role Educational Platform & Assessment Engine</i>
-      <br/><br/>
-      <ul>
-        <li>Desktop educational suite featuring Student and Instructor portals.</li>
-        <li>Dynamic multi-question quiz module with automatic scoring and result persistence.</li>
-        <li>Flat-file database engine with self-healing data directory resolution.</li>
-        <li>Modern dark-teal Swing canvas UI with animated completion feedback.</li>
-        <li><b>Stack:</b> Java 8, Swing, Flat-file Persistence, OOP.</li>
-      </ul>
+    <td><b>Backend & Systems</b></td>
+    <td>
+      <code>FastAPI</code> · <code>Spring Boot</code> · <code>Node.js</code> · <code>Express</code> · <code>WebSocket API</code> · <code>Winsock2 Sockets</code> · <code>Win32 Threads</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/nani224/lan-chat">LAN Chat</a></h3>
-      <i>Concurrent Multi-Threaded Socket Communication Engine</i>
-      <br/><br/>
-      <ul>
-        <li>High-throughput multi-client TCP messaging server in C Winsock2.</li>
-        <li>Full-duplex client with asynchronous background listener thread.</li>
-        <li>Thread-safe client connection registry guarded by Windows <code>CRITICAL_SECTION</code>.</li>
-        <li>Features private whispers (<code>/msg</code>), active roster (<code>/users</code>), and ANSI color UI.</li>
-        <li><b>Stack:</b> C, Winsock2, Multi-Threading, Windows Sockets.</li>
-      </ul>
+    <td><b>Distributed & Cloud</b></td>
+    <td>
+      <code>Hyperledger Fabric</code> · <code>Docker & Docker Compose</code> · <code>RESTful APIs</code> · <code>Microservices</code> · <code>JWT Authentication</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>💊 <a href="https://github.com/nani224/drugshield">DrugShield</a></h3>
-      <i>Mobile Anti-Counterfeit Medicine & Supply Chain Verification</i>
-      <br/><br/>
-      <ul>
-        <li>Mobile app for scanning pharmaceutical packaging and verifying provenance.</li>
-        <li>Integrates high-speed camera barcode/QR scanning with server validation.</li>
-        <li>Protects patients from spurious and counterfeit prescription drugs.</li>
-        <li><b>Stack:</b> Flutter, Dart, Camera Vision.</li>
-      </ul>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <code>MySQL (InnoDB)</code> · <code>MongoDB (Mongoose)</code> · <code>Flat-File Storage Engines</code> · <code>Hibernate / Spring Data JPA</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td>
+      <code>React 18</code> · <code>Next.js</code> · <code>Tailwind CSS</code> · <code>Framer Motion</code> · <code>Java Swing</code> · <code>Flutter</code> · <code>Android CameraX</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core CS & Math</b></td>
+    <td>
+      <code>Data Structures & Algorithms</code> · <code>Graph Theory (Dijkstra, Min-Heap)</code> · <code>Operating Systems & Memory Management</code> · <code>Computer Networks (TCP/IP)</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Highlighted Engineering Projects
+
+### 1. [EviGraph](https://github.com/nani224/EviGraph) — AI Criminal Network & Cryptographic Evidence System
+> **Smart India Hackathon 2026** · *Live Production Deployment on Render*
+* **Architecture**: Distributed system establishing an immutable, cryptographically verifiable chain-of-custody for forensic digital evidence using **Hyperledger Fabric** blockchain.
+* **Core Features**:
+  * Graph analytics mapping co-occurrences, criminal ring hierarchies, and association matrices.
+  * SHA-256 evidence hashing and immutable audit trails resisting tampering.
+  * REST microservices built with **FastAPI**, containerized via **Docker**, and consumed by a **React/TypeScript** interactive canvas.
+* **Tech Stack**: `TypeScript`, `FastAPI`, `Hyperledger Fabric`, `React`, `Docker`, `Python` · [**🌐 Live Demo**](https://evigraph.onrender.com)
+
+---
+
+### 2. [NETRA-X / TCS](https://github.com/nani224/TCS) — Real-Time NLP Dynamic Conversation & Escalation Engine
+* **Architecture**: Low-latency WebSocket-driven natural language processing engine designed for live digital content surveillance and threat classification.
+* **Core Features**:
+  * Tracks multi-turn conversational trajectories and calculates dynamic temporal escalation metrics (`STABLE`, `INCREASING`, `DECREASING`).
+  * Hybrid pipeline combining **spaCy** Named Entity Recognition, **scikit-learn** TF-IDF pattern matching, and external LLM contextual analysis with **100% offline local fallback**.
+  * Integer-clamped risk scoring ($0–100$) mapped to operational threat tiers (`LOW` to `CRITICAL`).
+* **Tech Stack**: `Python`, `FastAPI`, `WebSockets`, `spaCy`, `scikit-learn`, `Pytest`
+
+---
+
+### 3. [PathFinder](https://github.com/nani224/pathfinder) — High-Performance Graph Algorithm & K-Alternative Routes Engine
+* **Architecture**: Production-grade Graph Theory engine in pure C implementing single-source shortest path and multi-route detour enumeration.
+* **Engineering Highlights**:
+  * Implemented Dijkstra's algorithm with a custom dynamic **Binary Min-Heap Priority Queue**, guaranteeing $\mathcal{O}((V + E) \log V)$ execution time.
+  * Built an open-addressing string hash table with **djb2 hashing** for $\mathcal{O}(1)$ case-insensitive node lookups.
+  * Developed dynamic edge-penalty blocking allowing instant extraction of $K$-alternative detour routes without redundant traversals.
+  * Zero memory leaks: full allocation lifecycle managed via `free_graph()`.
+* **Tech Stack**: `C`, `Graph Theory`, `Data Structures`, `Min-Heap`, `GCC`
+
+---
+
+### 4. [SmartLearn](https://github.com/nani224/smartlearn) — Desktop Educational Management & Assessment Platform
+* **Architecture**: Full-stack multi-role desktop educational management system built with Java Swing and an ACID-compliant flat-file storage engine.
+* **Engineering Highlights**:
+  * Multi-role permissions model separating Student and Instructor workflows.
+  * Interactive quiz assessment dialog (`QuizDialog`) featuring dynamic pagination, radio button group state, automated score tabulation, and completion feedback.
+  * Self-healing file persistence layer (`FileManager`) with cross-platform relative path discovery across 20+ curriculum courses.
+* **Tech Stack**: `Java 8`, `Swing GUI`, `OOP`, `Flat-File Persistence`
+
+---
+
+### 5. [LAN Chat Communication System](https://github.com/nani224/lan-chat) — Concurrent Multi-Threaded Sockets Engine
+* **Architecture**: High-throughput multi-client TCP messaging server and interactive client built using native Windows Sockets (`Winsock2`) and Win32 threads.
+* **Engineering Highlights**:
+  * Supports up to 64 concurrent client connections with independent worker threads (`CreateThread`).
+  * Guarded connection registries using Windows `CRITICAL_SECTION` mutexes to ensure complete thread-safety.
+  * Full-duplex client architecture: asynchronous background listener thread displays incoming traffic without interrupting ongoing keyboard input.
+  * Features private whispers (`/msg`), live roster enumeration (`/users`), and ANSI terminal color formatting.
+* **Tech Stack**: `C`, `Winsock2`, `Multithreading`, `TCP/IP`, `Win32 API`
+
+---
+
+## 🏛️ Comprehensive Academic & Engineering Repository Index
+
+| Repository | Focus / Domain | Primary Technologies | Key Metric / Deliverable |
+| :--- | :--- | :--- | :--- |
+| **[EviGraph](https://github.com/nani224/EviGraph)** | Blockchain & Forensics | React, FastAPI, Hyperledger | SIH 2026 Finalist System (Live on Render) |
+| **[TCS / NETRA-X](https://github.com/nani224/TCS)** | AI & NLP Threat Analysis | Python, FastAPI, spaCy | Real-time WebSocket multi-turn risk scoring |
+| **[pathfinder](https://github.com/nani224/pathfinder)** | Graph Theory & Algorithms | C, Min-Heap, Hashmap | $\mathcal{O}((V+E)\log V)$ Dijkstra & $K$-detour engine |
+| **[smartlearn](https://github.com/nani224/smartlearn)** | Enterprise OOP Platform | Java, Swing, File IO | Multi-role assessment & curriculum portal |
+| **[lan-chat](https://github.com/nani224/lan-chat)** | Systems & Networking | C, Winsock2, Win32 | 64-client concurrent full-duplex socket server |
+| **[nids](https://github.com/nani224/nids)** | Network Security | Spring Boot, MySQL, Thymeleaf | Network log monitoring & rule-based intrusion alerts |
+| **[drugshield](https://github.com/nani224/drugshield)** | Mobile & Computer Vision | Flutter, Dart, CameraX | Anti-counterfeit pharmaceutical verification |
+| **[sravanp](https://github.com/nani224/sravanp)** | Personal Web Presence | HTML5, CSS3, JavaScript | Modern Emerald-Mint interactive portfolio |
+
+---
+
+## 📈 Activity & Technical Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nani224&show_icons=true&theme=radical&hide_border=true&title_color=00FF99&text_color=FFFFFF&icon_color=00B4D8" height="175" alt="nani224's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nani224&show_icons=true&theme=radical&hide_border=true&title_color=00FF99&text_color=FFFFFF&icon_color=00B4D8" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nani224&layout=compact&theme=radical&hide_border=true&title_color=00FF99&text_color=FFFFFF" height="175" alt="Top Languages" />
 </div>
@@ -166,6 +163,15 @@
 
 ---
 
+## 📬 Open for Opportunities
+
+I am actively interviewing for **Software Development Engineer (SDE), Backend Engineer, and Systems Engineering** roles. 
+
+* 📧 **Email**: [sravanp224@gmail.com](mailto:sravanp224@gmail.com)
+* 🌐 **GitHub**: [github.com/nani224](https://github.com/nani224)
+* 💼 **Portfolio**: [nani224.github.io/sravanp](https://nani224.github.io/sravanp/)
+* 📍 **Location**: Hyderabad, India (Open to Relocation & Remote)
+
 <div align="center">
-  <sub>Engineered with precision by <b>P. Sravan Kumar</b> · <a href="https://github.com/nani224">@nani224</a></sub>
+  <sub>© 2026 P. Sravan Kumar. Code with purpose. Build for scale.</sub>
 </div>
